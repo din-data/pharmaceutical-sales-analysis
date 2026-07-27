@@ -30,22 +30,29 @@ Melakukan Exploratory Data Analysis (EDA) untuk mengevaluasi tren penjualan, per
 ## Results & Business Recommendation
 Analisis terhadap 254K transaksi penjualan menunjukkan bahwa perusahaan menghasilkan Total Sales sebesar 11,80 Billion dengan lebih dari 28,6 juta unit produk terjual selama periode 2017–2020. Penjualan mengalami pertumbuhan yang cukup tinggi pada 2018 (+29,81%), namun kembali mengalami penurunan pada 2019 (-16,42%), sehingga pertumbuhan bisnis belum berlangsung secara konsisten.
 
+![Monthly Sales Trend](images/monthly-sales.png)
+
+![YoY Sales Growth](images/yoy-growth.png)
  
  
 
 Analisis juga menunjukkan bahwa sebagian besar Sales berasal dari beberapa Product Class, customer, distributor, kota, dan Sales Representative tertentu. Kondisi ini menunjukkan bahwa perusahaan masih bergantung pada beberapa kontributor utama dalam menghasilkan penjualan. Selain itu, seluruh Product Class mengalami penurunan penjualan pada tahun 2020 dibandingkan tahun sebelumnya, sehingga diperlukan evaluasi terhadap strategi penjualan dan distribusi yang diterapkan.
+
+
+![Product_Class](images/product-class.png)
  
 
 ### Berdasarkan hasil analisis tersebut, beberapa rekomendasi yang dapat dipertimbangkan adalah:
-•	Memprioritaskan Product Class dengan kontribusi Sales terbesar melalui peningkatan promosi, ketersediaan stok, dan aktivitas pemasaran agar pertumbuhan penjualan dapat dipertahankan. 
+• Memprioritaskan Product Class dengan kontribusi Sales tertinggi melalui optimalisasi promosi dan ketersediaan stok.
 
-•	Mengembangkan customer dan wilayah dengan kontribusi penjualan yang masih rendah untuk mengurangi ketergantungan terhadap sejumlah kecil customer dan pasar utama. 
+• Mengembangkan customer dan wilayah dengan performa rendah untuk mengurangi ketergantungan pada pasar utama.
 
-•	Mengevaluasi strategi penjualan setelah tahun 2018, termasuk aktivitas promosi, distribusi, dan kondisi pasar yang berpotensi menyebabkan penurunan penjualan pada tahun-tahun berikutnya. 
+• Mengevaluasi strategi penjualan pasca-2018 guna mengidentifikasi penyebab penurunan performa dan menyusun strategi pertumbuhan yang lebih efektif.
 
-•	Menerapkan strategi dan praktik terbaik dari Sales Representative dengan performa tertinggi kepada seluruh tim penjualan melalui coaching dan evaluasi kinerja secara berkala agar produktivitas tim menjadi lebih merata. 
+• Menerapkan best practice dari Sales Representative terbaik untuk meningkatkan produktivitas dan pemerataan kinerja tim penjualan.
 
-Dengan menerapkan strategi tersebut, perusahaan diharapkan dapat meningkatkan efektivitas aktivitas penjualan, memperluas jangkauan pasar, serta menciptakan pertumbuhan revenue yang lebih berkelanjutan.
+
+Implementasi rekomendasi tersebut diharapkan dapat meningkatkan efektivitas penjualan, memperluas jangkauan pasar, serta mendorong pertumbuhan Sales yang lebih berkelanjutan.
 
 ## Next Steps
 •	Sales Forecasting untuk mengidentifikasi peluang pertumbuhan penjualan di periode berikutnya. 
